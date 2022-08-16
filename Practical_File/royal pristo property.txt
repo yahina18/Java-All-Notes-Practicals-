@@ -1,0 +1,14 @@
+royal pristo pending info
+
+*Phase: ?
+*Number Of Floors: ?
+*Deal End Time (mm/dd/yyyy): ?
+Select Bank Offers ?
+Select Assurances ?
+Select Bank ?
+*Description Title: ?
+*Description: ?
+*Keywords: ?
+*Meta Description: ?
+*Page Title: ?
+
